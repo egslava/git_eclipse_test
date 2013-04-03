@@ -36,6 +36,5 @@ public class MainActivity extends Activity
                 helloTextView.setText("You've clicked the button");
             break;
         }
-    }
-    
+    }    
 }
